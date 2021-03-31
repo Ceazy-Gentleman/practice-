@@ -1,0 +1,16 @@
+git init 设置文件夹监控权限
+git status 
+git add xx.txt\git add .
+git commit -m 'v1'
+git log
+git reflog 查看最近一次的操作
+git reset --hard 序列号  返回之前的版本
+git reset --mix 序列号 返回版本之前的改动但未保存的版本
+git reset HEAD 文件名 将文件从暂存区变回工作区
+git reset --soft 序列号 将文件从版本库变回暂存区
+git checkout 文件名 取消对文件的修改
+git branch 查看现有分支
+git branch 分支名 创建分支
+git checkout 分支名 切换到指定分支
+
+verbbbbtu
